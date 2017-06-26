@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="fangduoduo">
+    <configurations>
+      <configuration name="fangduoduo" target-platform="Mobile" output-file="fangduoduo.swf" output-folder="$MODULE_DIR$/../out/production/fangduoduo">
+        <dependencies />
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android enabled="true" package-file-name="fangduoduo" />
+        <packaging-ios enabled="true" package-file-name="fangduoduo" />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
