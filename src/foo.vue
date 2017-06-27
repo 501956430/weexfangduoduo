@@ -12,7 +12,7 @@
 </style>
 
 <script>
-  export default {
+    module.exports = {
     data: {
       logoUrl: 'https://alibaba.github.io/weex/img/weex_logo_blue@3x.png',
       target: 'World'
